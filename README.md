@@ -59,7 +59,7 @@
 </picture>
 
 <div align="center"> 
-  <img src="https://i.pinimg.com/originals/bf/d8/c6/bfd8c6664916e99afb4c26fc34f30a1a.gif" height="220"/> 
+  <img src="https://i.redd.it/t64rltdqx90e1.gif" height="220"/> 
 </div>
 <div align="center">
   <i>“Mientras otros duermen, yo construyo.”</i> 
