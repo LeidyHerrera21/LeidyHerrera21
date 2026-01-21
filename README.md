@@ -53,10 +53,12 @@
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"/> 
 </div>
 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph-dark.svg"> 
-<img src="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph-dark.svg"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <div align="center"> 
   <img src="https://i.redd.it/t64rltdqx90e1.gif" height="220"/> 
