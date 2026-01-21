@@ -64,7 +64,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeidyHerrera21/LeidyHerrera21/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -72,14 +76,6 @@
 
 <div align="center">
   <img height="207" src="https://i.pinimg.com/originals/bf/d8/c6/bfd8c6664916e99afb4c26fc34f30a1a.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FF0076&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
 </div>
 
 ###
