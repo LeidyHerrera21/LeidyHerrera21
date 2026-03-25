@@ -7,12 +7,15 @@
 
 <i>“𝑬𝒍 𝒄ó𝒅𝒊𝒈𝒐 𝒕𝒂𝒎𝒃𝒊é𝒏 𝒑𝒖𝒆𝒅𝒆 𝒔𝒆𝒓 𝒐𝒔𝒄𝒖𝒓𝒐, 𝒆𝒍𝒆𝒈𝒂𝒏𝒕𝒆 𝒚 𝒆𝒕𝒆𝒓𝒏𝒐.”</i>
 
+<<<<<<< HEAD
 <br><br>
 
 <img src="https://c.tenor.com/P7hCyZlzDH4AAAAC/tenor.gif" height="120"/>
 
 <br><br>
 
+=======
+>>>>>>> c705d2989a4bff2a3e4d66ba4ef11d85dc4b1629
 <img src="https://count.getloli.com/@:LeidyHerrera21?theme=love-and-deepspace&padding=4&scale=1&pixelated=1&darkmode=auto"/>
 
 </div>
@@ -23,7 +26,12 @@
 
 ```txt
 ✦ Estética oscura y minimalista
+<<<<<<< HEAD
 ✦ Frontend en constante evolución
+=======
+✦ Frontend & Backend en constante evolución
+✦ Linux, arquitectura limpia y disciplina
+>>>>>>> c705d2989a4bff2a3e4d66ba4ef11d85dc4b1629
 ✦ El caos también puede dominarse
 ```
 
@@ -41,6 +49,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34"/>
+<<<<<<< HEAD
+=======
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="34"/> 
+>>>>>>> c705d2989a4bff2a3e4d66ba4ef11d85dc4b1629
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="34"/> 
  </div>
@@ -67,4 +80,8 @@
 <div align="center"> 
     <i>“𝑴𝒊𝒆𝒏𝒕𝒓𝒂𝒔 𝒐𝒕𝒓𝒐𝒔 𝒅𝒖𝒆𝒓𝒎𝒆𝒏, 𝒚𝒐 𝒄𝒐𝒏𝒔𝒕𝒓𝒖𝒚𝒐.”
     </i> 
+<<<<<<< HEAD
 </div>  
+=======
+</div>  
+>>>>>>> c705d2989a4bff2a3e4d66ba4ef11d85dc4b1629
