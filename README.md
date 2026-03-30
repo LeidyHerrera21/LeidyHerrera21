@@ -64,6 +64,13 @@
     <img src="https://i.redd.it/t64rltdqx90e1.gif" height="220"/> 
 </div> 
 
+## 🐍 Snake de contribuciones
+
+![Snake animation](https://github.com/LeidyHerrera21/LeidyHerrera21/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 <div align="center"> 
     <i>“𝑴𝒊𝒆𝒏𝒕𝒓𝒂𝒔 𝒐𝒕𝒓𝒐𝒔 𝒅𝒖𝒆𝒓𝒎𝒆𝒏, 𝒚𝒐 𝒄𝒐𝒏𝒔𝒕𝒓𝒖𝒚𝒐.”
     </i> 
