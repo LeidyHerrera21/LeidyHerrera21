@@ -7,12 +7,6 @@
 
 <i>“𝑬𝒍 𝒄ó𝒅𝒊𝒈𝒐 𝒕𝒂𝒎𝒃𝒊é𝒏 𝒑𝒖𝒆𝒅𝒆 𝒔𝒆𝒓 𝒐𝒔𝒄𝒖𝒓𝒐, 𝒆𝒍𝒆𝒈𝒂𝒏𝒕𝒆 𝒚 𝒆𝒕𝒆𝒓𝒏𝒐.”</i>
 
-<br><br>
-
-<img src="https://c.tenor.com/P7hCyZlzDH4AAAAC/tenor.gif" height="120"/>
-
-<br><br>
-
 <img src="https://count.getloli.com/@:LeidyHerrera21?theme=love-and-deepspace&padding=4&scale=1&pixelated=1&darkmode=auto"/>
 
 </div>
