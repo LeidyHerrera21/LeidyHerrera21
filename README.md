@@ -48,9 +48,6 @@
      <a href="https://wa.me/51990326787">
         <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
     </a> 
-    <a href="#"> 
-        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"/> 
-    </a> 
 </div>
 
 <div align="center">
